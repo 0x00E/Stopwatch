@@ -1,2 +1,2 @@
 # Stopwatch
-a stopwatch use swing
+Stopwatch by qianniancc
